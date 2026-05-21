@@ -606,7 +606,7 @@ def run_scraper(app_url, status_callback=None):
 # -----------------------------
 
 st.set_page_config(
-    page_title="App Store Reviews Scraper",
+    page_title="App App Store Reviews Scraper",
     page_icon="📱",
     layout="wide",
 )
